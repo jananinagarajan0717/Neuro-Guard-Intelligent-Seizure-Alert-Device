@@ -4,7 +4,7 @@
 
 The system is composed of a set of different sensors linked to an ESP32-C3 microcontroller, which is intended to record the first symptoms of seizures and notify about them in real-time. The main parts and their functions are the following:
 
-**•**	**ADXL345 Accelerometer:**Records unexpected or unusual body movements, as a rule, related to seizures.
+**•**	**ADXL345 Accelerometer:** Records unexpected or unusual body movements, as a rule, related to seizures.
 
 **•**	 **MAX30102 Heart Rate Sensor:** Constantly checks the heart rate of the user and seeks any unusual spikes or drops in heart rate, which can happen during a seizure.
 
