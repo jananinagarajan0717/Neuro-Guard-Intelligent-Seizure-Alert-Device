@@ -1,5 +1,7 @@
 # Neuro-Guard-Intelligent-Seizure-Alert-Device
 
+📑 Patent Status: Application Published (Patent Pending)
+
 ![Hardware](https://github.com/jananinagarajan0717/Neuro-Guard-Intelligent-Seizure-Alert-Device/blob/main/Hardware.png)
 
 The system is composed of a set of different sensors linked to an ESP32-C3 microcontroller, which is intended to record the first symptoms of seizures and notify about them in real-time. The main parts and their functions are the following:
